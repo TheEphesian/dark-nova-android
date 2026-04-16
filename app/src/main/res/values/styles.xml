@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy theme required because activities use
+         Window.FEATURE_CUSTOM_TITLE, which is not supported by AppCompat themes. -->
+    <style name="AppTheme" parent="@android:style/Theme.Black" />
+</resources>

@@ -22,7 +22,7 @@
 <TextView android:text="sheild slots(s)" android:id="@+id/TextView11" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
 <TextView android:text="1" android:id="@+id/TextView12" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
 <TextView android:text="gadget slot(s)" android:id="@+id/TextView13" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
-<TextView android:text="@+id/TextView14" android:id="@+id/TextView14" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:text="crew quarter(s)" android:id="@+id/TextView15" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
 
 <LinearLayout
   xmlns:android="http://schemas.android.com/apk/res/android"
